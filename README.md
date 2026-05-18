@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohcine Behate</h1>
-<h3 align="center">Data Analyst | Machine Learning | Power BI | Python | SQL</h3>
+<h3 align="center">Data Analyst | End-to-End Data Projects | Machine Learning | Power BI | SQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohcine-behate-3b27a857/" target="_blank">
@@ -15,10 +15,10 @@
 
 ## About Me
 
-I am a data-focused professional based in Toronto, Canada, with a strong interest in data analytics, business intelligence, machine learning, and dashboard development.
+I build end-to-end data analytics and machine learning projects that transform raw data into actionable insights, predictive models, and business dashboards.
 
-- Turning raw data into clear, useful, and actionable insights
-- Building end-to-end data projects from data cleaning to visualization and prediction
+- Turning raw data into clear, useful, and business-focused insights
+- Building complete data projects from cleaning and analysis to visualization and prediction
 - Working with Python, SQL, Power BI, and Excel to solve real business problems
 - Developing dashboards, analytical reports, and machine learning workflows
 - Interested in data storytelling, predictive analytics, automation, and business decision support
@@ -60,7 +60,7 @@ End-to-end data science and machine learning project analyzing Toronto KSI colli
 - Built a complete workflow including EDA, data cleaning, feature engineering, model training, evaluation, prediction, and dashboard reporting
 - Trained and compared Logistic Regression, Decision Tree, Random Forest, SVM, and Neural Network models
 - Selected Random Forest as the best overall model based on Accuracy, Precision, F1-Score, and ROC-AUC
-- Created a prediction workflow using the saved model and test data
+- Created a prediction workflow using the saved model and prepared test data
 - Built a 4-page Power BI dashboard covering executive overview, temporal patterns, geographic risk, and environmental/road conditions
 - Added professional documentation including methodology, model evaluation, data dictionary, model card, and reproducibility notes
 
@@ -133,7 +133,7 @@ Python automation project focused on reducing repetitive Excel tasks.
 
 ---
 
-## Current Focus
+## Professional Focus
 
 - Building end-to-end data analytics and machine learning portfolio projects
 - Improving Power BI dashboard design and business storytelling

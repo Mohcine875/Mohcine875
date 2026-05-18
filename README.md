@@ -133,12 +133,12 @@ Python automation project focused on reducing repetitive Excel tasks.
 
 ---
 
-## GitHub Stats
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohcine875&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcine875&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+- Building end-to-end data analytics and machine learning portfolio projects
+- Improving Power BI dashboard design and business storytelling
+- Strengthening SQL, Python, and predictive analytics skills
+- Developing projects that combine data cleaning, modeling, visualization, and documentation
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohcine Behate</h1>
-<h3 align="center">📊 Data Analyst | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">Data Analyst | Machine Learning | Power BI | Python | SQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohcine-behate-3b27a857/" target="_blank">
@@ -13,81 +13,127 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔍 Passionate about turning raw data into clear, actionable insights
-- 📍 Based in **Toronto, Canada**
-- 🛠️ Working with **Python, SQL, Power BI, and Excel** to solve real business problems
-- 📈 Focused on **EDA, data visualization, and business intelligence dashboards**
-- 🌱 Currently deepening my skills in **data storytelling and predictive analytics**
-- 💬 Ask me about **data cleaning, EDA, Power BI dashboards, or SQL queries**
+I am a data-focused professional based in Toronto, Canada, with a strong interest in data analytics, business intelligence, machine learning, and dashboard development.
+
+- Turning raw data into clear, useful, and actionable insights
+- Building end-to-end data projects from data cleaning to visualization and prediction
+- Working with Python, SQL, Power BI, and Excel to solve real business problems
+- Developing dashboards, analytical reports, and machine learning workflows
+- Interested in data storytelling, predictive analytics, automation, and business decision support
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 📊 Data Analysis & Visualization
+### Data Analysis & Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases & BI Tools
+### Databases & Business Intelligence
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🔧 Other Tools
+### Tools
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 [Top UK YouTubers 2024 — Excel to Power BI](https://github.com/Mohcine875/Top_uk_youtubers_2024)
-> Full end-to-end data pipeline: Kaggle → Excel → SQL Server → Power BI Dashboard
+### 🚗 [KSI Toronto Collision Analysis — Machine Learning + Power BI](https://github.com/Mohcine875/KSI-Toronto-Collision-Analysis)
 
-- Analyzed 100 top UK YouTube channels to identify the best candidates for marketing campaigns
-- Built an interactive Power BI dashboard with key KPIs (subscribers, views, engagement rate)
-- Wrote SQL queries for data cleaning, transformation, testing, and ROI calculations
-- **Tools:** Excel · SQL Server · Power BI · DAX · GitHub Pages
+End-to-end data science and machine learning project analyzing Toronto KSI collision data to predict fatal vs non-fatal collision outcomes.
 
----
+**Key highlights:**
+- Built a complete workflow including EDA, data cleaning, feature engineering, model training, evaluation, prediction, and dashboard reporting
+- Trained and compared Logistic Regression, Decision Tree, Random Forest, SVM, and Neural Network models
+- Selected Random Forest as the best overall model based on Accuracy, Precision, F1-Score, and ROC-AUC
+- Created a prediction workflow using the saved model and test data
+- Built a 4-page Power BI dashboard covering executive overview, temporal patterns, geographic risk, and environmental/road conditions
+- Added professional documentation including methodology, model evaluation, data dictionary, model card, and reproducibility notes
 
-### 🪔 [Diwali Sales Analysis — Python EDA](https://github.com/Mohcine875/MB_Python_Sales-EDA-)
-> Exploratory Data Analysis on 11,000+ customer transactions during the Diwali festival
-
-- Identified key buyer demographics: married women aged 26-35 from UP, Maharashtra & Karnataka
-- Analyzed purchasing patterns across gender, age, occupation, and product categories
-- Delivered actionable insights to improve marketing targeting strategies
-- **Tools:** Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
+**Tools:** Python · Pandas · Scikit-learn · imbalanced-learn · Power BI · Jupyter Notebook · GitHub
 
 ---
 
 ### 💳 [Credit Card Financial Dashboard — Power BI](https://github.com/Mohcine875/Credit_Card_Financial_Dashboard)
-> Interactive financial dashboard for credit card performance monitoring
 
-- **Tools:** Power BI · DAX
+Interactive financial dashboard project focused on credit card performance monitoring and business reporting.
+
+**Key highlights:**
+- Built a Power BI dashboard to analyze credit card financial performance
+- Designed KPI cards, trend visuals, and business-focused insights
+- Created a dashboard suitable for financial monitoring and decision-making
+
+**Tools:** Power BI · DAX · Excel · Data Visualization
 
 ---
 
-### 🛒 [Walmart Sales Analysis](https://github.com/Mohcine875/WalmartSalesAnalysis)
-> Sales data analysis for one of the world's largest retailers
+### 🛒 [Walmart Sales Analysis — SQL](https://github.com/Mohcine875/WalmartSalesAnalysis)
+
+SQL-based sales analysis project focused on business performance, revenue trends, and branch-level insights.
+
+**Key highlights:**
+- Analyzed sales data using SQL queries
+- Explored revenue, product performance, and branch-level trends
+- Produced business insights from transactional data
+
+**Tools:** SQL · Data Analysis · Business Analytics
+
+---
+
+### 🪔 [Diwali Sales Analysis — Python EDA](https://github.com/Mohcine875/MB_Python_Sales-EDA-)
+
+Exploratory data analysis project using Python on customer sales transactions during the Diwali season.
+
+**Key highlights:**
+- Analyzed customer demographics and purchasing patterns
+- Explored sales trends by gender, age group, occupation, state, and product category
+- Generated insights to support marketing and customer targeting decisions
+
+**Tools:** Python · Pandas · Matplotlib · Jupyter Notebook
+
+---
+
+### 📊 [Top UK YouTubers 2024 — Excel to Power BI](https://github.com/Mohcine875/Top_uk_youtubers_2024)
+
+End-to-end analytics project analyzing top UK YouTube channels for marketing campaign decision-making.
+
+**Key highlights:**
+- Analyzed top UK YouTube channels using Excel, SQL Server, and Power BI
+- Built an interactive dashboard with key metrics such as subscribers, views, and engagement
+- Used data cleaning, transformation, and visualization to support campaign selection
+
+**Tools:** Excel · SQL Server · Power BI · DAX
 
 ---
 
 ### 🐍 [Excel Automation with Python](https://github.com/Mohcine875/Automate_Excel_Using_Python)
-> Automate repetitive Excel tasks using Python scripts
 
-- **Tools:** Python · openpyxl / pandas
+Python automation project focused on reducing repetitive Excel tasks.
+
+**Key highlights:**
+- Automated Excel workflows using Python
+- Used Python libraries to process and manipulate spreadsheet files
+- Demonstrated practical automation for productivity and reporting tasks
+
+**Tools:** Python · pandas · openpyxl · Excel
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohcine875&show_icons=true&theme=dark&hide_border=true" width="48%" />
@@ -96,10 +142,10 @@
 
 ---
 
-## 📫 Get in Touch
+## Contact
 
-- 💼 LinkedIn: [mohcine-behate-3b27a857](https://www.linkedin.com/in/mohcine-behate-3b27a857/)
-- 🐙 GitHub: [Mohcine875](https://github.com/Mohcine875)
+- LinkedIn: [mohcine-behate-3b27a857](https://www.linkedin.com/in/mohcine-behate-3b27a857/)
+- GitHub: [Mohcine875](https://github.com/Mohcine875)
 
 ---
 

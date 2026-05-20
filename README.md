@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohcine Behate</h1>
+<h1 align="center">Mohcine Behate</h1>
 <h3 align="center">Data Analyst | End-to-End Data Projects | Machine Learning | Power BI | SQL</h3>
 
 <p align="center">

@@ -52,7 +52,7 @@ I build end-to-end data analytics and machine learning projects that transform r
 
 ## Featured Projects
 
-### 🚗 [KSI Toronto Collision Analysis — Machine Learning + Power BI](https://github.com/Mohcine875/KSI-Toronto-Collision-Analysis)
+### [KSI Toronto Collision Analysis — Machine Learning + Power BI](https://github.com/Mohcine875/KSI-Toronto-Collision-Analysis)
 
 End-to-end data science and machine learning project analyzing Toronto KSI collision data to predict fatal vs non-fatal collision outcomes.
 
@@ -68,7 +68,7 @@ End-to-end data science and machine learning project analyzing Toronto KSI colli
 
 ---
 
-### 💳 [Credit Card Financial Dashboard — Power BI](https://github.com/Mohcine875/Credit_Card_Financial_Dashboard)
+### [Credit Card Financial Dashboard — Power BI](https://github.com/Mohcine875/Credit_Card_Financial_Dashboard)
 
 Interactive financial dashboard project focused on credit card performance monitoring and business reporting.
 
@@ -81,20 +81,21 @@ Interactive financial dashboard project focused on credit card performance monit
 
 ---
 
-### 🛒 [Walmart Sales Analysis — SQL](https://github.com/Mohcine875/WalmartSalesAnalysis)
+### [Walmart Sales Analysis — SQL](https://github.com/Mohcine875/WalmartSalesAnalysis)
 
-SQL-based sales analysis project focused on business performance, revenue trends, and branch-level insights.
+SQL-based retail sales analysis project focused on revenue trends, branch performance, product analysis, and customer behavior.
 
 **Key highlights:**
-- Analyzed sales data using SQL queries
-- Explored revenue, product performance, and branch-level trends
-- Produced business insights from transactional data
+- Analyzed Walmart sales transactions using SQL
+- Explored branch performance, product lines, payment methods, and customer segments
+- Created time-based features to analyze sales by time of day, day of week, and month
+- Produced business insights from transactional retail data
 
-**Tools:** SQL · Data Analysis · Business Analytics
+**Tools:** SQL · MySQL · Data Analysis · Retail Analytics · Business Analytics
 
 ---
 
-### 🪔 [Diwali Sales Analysis — Python EDA](https://github.com/Mohcine875/MB_Python_Sales-EDA-)
+### [Diwali Sales Analysis — Python EDA](https://github.com/Mohcine875/MB_Python_Sales-EDA-)
 
 Exploratory data analysis project using Python on customer sales transactions during the Diwali season.
 
@@ -103,33 +104,34 @@ Exploratory data analysis project using Python on customer sales transactions du
 - Explored sales trends by gender, age group, occupation, state, and product category
 - Generated insights to support marketing and customer targeting decisions
 
-**Tools:** Python · Pandas · Matplotlib · Jupyter Notebook
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ---
 
-### 📊 [Top UK YouTubers 2024 — Excel to Power BI](https://github.com/Mohcine875/Top_uk_youtubers_2024)
+### [Top UK YouTubers 2024 — Power BI Marketing Analytics](https://github.com/Mohcine875/Top_uk_youtubers_2024)
 
-End-to-end analytics project analyzing top UK YouTube channels for marketing campaign decision-making.
+Marketing analytics dashboard analyzing top UK YouTube channels for campaign decision-making.
 
 **Key highlights:**
 - Analyzed top UK YouTube channels using Excel, SQL Server, and Power BI
-- Built an interactive dashboard with key metrics such as subscribers, views, and engagement
-- Used data cleaning, transformation, and visualization to support campaign selection
+- Built an interactive dashboard with subscriber, views, video, and engagement metrics
+- Used SQL cleaning, data validation, DAX measures, and ROI-based recommendations
 
-**Tools:** Excel · SQL Server · Power BI · DAX
+**Tools:** Excel · SQL Server · Power BI · DAX · Marketing Analytics
 
 ---
 
-### 🐍 [Excel Automation with Python](https://github.com/Mohcine875/Automate_Excel_Using_Python)
+### [Japan Sales Excel Automation — Python](https://github.com/Mohcine875/Automate_Excel_Using_Python)
 
-Python automation project focused on reducing repetitive Excel tasks.
+Python automation project focused on extracting and consolidating sales data from multiple Excel files.
 
 **Key highlights:**
-- Automated Excel workflows using Python
-- Used Python libraries to process and manipulate spreadsheet files
-- Demonstrated practical automation for productivity and reporting tasks
+- Automated Excel data extraction from multiple city sales files
+- Used a configuration workbook to control extraction logic
+- Consolidated results into timestamped output reports
+- Reduced repetitive manual Excel reporting work
 
-**Tools:** Python · pandas · openpyxl · Excel
+**Tools:** Python · pandas · openpyxl · xlwings · Excel Automation
 
 ---
 

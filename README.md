@@ -148,7 +148,7 @@ Python automation project focused on extracting and consolidating sales data fro
 - Building end-to-end data analytics and machine learning portfolio projects
 - Improving Power BI dashboard design and business storytelling
 - Strengthening SQL, Python, and predictive analytics skills
-- Developing projects that combine data cleaning, modeling, visualization, and documentation
+- Developing projects that combine data cleaning, automation, modeling, visualization, AI tools, and documentation
 
 ---
 

@@ -19,7 +19,7 @@ I build end-to-end data analytics and machine learning projects that transform r
 
 - Turning raw data into clear, useful, and business-focused insights
 - Building complete data projects from cleaning and analysis to visualization and prediction
-- Working with Python, SQL, Power BI, and Excel to solve real business problems
+- Working with Python, SQL, Power BI, Power Platform, and AI tools to solve real business problems
 - Developing dashboards, analytical reports, and machine learning workflows
 - Interested in data storytelling, predictive analytics, automation, and business decision support
 
